@@ -17,4 +17,7 @@ This file does numerous things
 4. It creates clickable links
 5. It connects the HTML to my CSS
 
+## IMG_3433.JPG
+This is my headshot. 
+
 ** Live webpage: https://jonnyclasbyq.github.io/queens-student-page/ **
